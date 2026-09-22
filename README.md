@@ -214,4 +214,4 @@ AbiWord is offered as a full free version, containing all features and regular u
 Experience the power of AbiWord today! Download your free copy and start creating stunning documents with ease.
 
 ---
-**Last updated:** 2026-09-22 14:35:01 UTC
+**Last updated:** 2026-09-22 18:41:03 UTC
